@@ -1,0 +1,1 @@
+# namespace-t-template-typename-T-T-gcd-T-__m-T-__n-while-__n-0-T-__t-
